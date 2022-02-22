@@ -1,3 +1,7 @@
+#Copyright (c) 2022, Rüdiger Lück
+#All rights reserved.
+ 
+
 # ++ Import Modules ++
 
 import cv2 # module for computer vision
